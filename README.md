@@ -7,9 +7,9 @@
 ![Street_View](resources/Earthquake_Street_View.png)
 
 ### **Earthquake_Satellite_View**
-![Satellite_View](resources/Earthquake_Satelite_View.png)
+![Satellite_View](resources/Earthquake_Satellite_View.png)
 
 ### **Earthquake_Dark_View**
-![Dark_View](resources/Earthequake_Dark_View.png)
+![Dark_View](resources/Earthquake_Dark_View.png)
 
 
